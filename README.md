@@ -1,7 +1,5 @@
 # Machine Learning & IoT-Based-Complete-Air-pollution-monitoring-and-forecasting-System.
 
-
-[Link To Live Project](http://airpollution.epizy.com/newpage1.php)
 ***
 IOT Based Air Pollution Monitoring &amp; Forecasting System
 ## Modules
@@ -11,7 +9,8 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 
 ## Functionalities
 ***
-![Image text](Screenshots/Website/.jpg)
+![Image text](<img width="557" alt="Circuit" src="https://github.com/user-attachments/assets/2bfb249d-c2c3-45da-a92a-bc46c53a5d06" />
+)
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
