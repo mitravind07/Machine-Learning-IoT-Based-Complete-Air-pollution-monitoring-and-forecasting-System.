@@ -50,7 +50,7 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 <a name="website"></a>
 ### AQI Monitoring Website
 ***
-![Image text](Screenshots/Website/websiteFront.jpg)
+![Image text]("C:\Users\mitra\Desktop\Circuit.png")
 1. Dashboard
 2. Monthly and Daily AQI Monitoring
 3. Daily and Hourly AQI Forecasting 
