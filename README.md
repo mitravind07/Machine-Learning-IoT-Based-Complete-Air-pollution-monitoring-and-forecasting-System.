@@ -9,12 +9,11 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 
 ## Functionalities
 ***
-![Image text](<img width="557" alt="Circuit" src="https://github.com/user-attachments/assets/2bfb249d-c2c3-45da-a92a-bc46c53a5d06" />
-)
+
 
 <a name="IoT"></a>
 ### IOT based Air Pollution Sensing Device
-![Image text](Screenshots/IoT-Device/device.jpg)
+
 
 1. Arduino (Mega 2560)
 2. Pollution Sensors
@@ -49,7 +48,7 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 <a name="website"></a>
 ### AQI Monitoring Website
 ***
-![Image text]("C:\Users\mitra\Desktop\Circuit.png")
+
 1. Dashboard
 2. Monthly and Daily AQI Monitoring
 3. Daily and Hourly AQI Forecasting 
@@ -59,23 +58,23 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 #### Details
 1. **Dashboard** 
     * For watching the continuous report of all the Sensors. 
-      ![Image text](Screenshots/Website/aqiDashboard.jpg)
+
 2. **Monthly and Daily AQI Monitoring** 
     * Watching Monthly report of current month AQI.
     * Watching Hourly report of same day.
-      ![Image text](Screenshots/Website/aqiGraph.jpg)
+      
 3. **Daily and Hourly AQI Forecasting** 
     * Seeing next 7 day AQI forecast.
     * Seeing next 24 hours forecast.
-      ![Image text](Screenshots/Website/tempGraph.jpg)
+
    
 4. **Pollution history** 
     * Graphical repersantion of historical data based on selected Month or Day. 
-      ![Image text](Screenshots/Website/monthlyData.jpg)
+     
 5. **AQI Alerting and Precaution**
     * Provides alert on website whenever AQI level crosses the limit.
     * Provides consequences and precaution about the AQI levels.
-      ![Image text](Screenshots/Website/webPage2.jpg)
+     
  
 <a name="ml"></a>
 ### Forecasting AQI
@@ -89,23 +88,23 @@ IOT Based Air Pollution Monitoring &amp; Forecasting System
 #### Details
 1. **Collecting Dataset** 
     * Collecting Dataset from the website database of atlest 6 months. 
-      ![Image text](Screenshots/Forecasting/dataset.jpg)
+     
       
 2. **Analysing Dataset** 
     * Exploratory data analysis on the dataset.
     * Wrangling and Preparing the Dataset.
     * Time-windowing the Dataset for time series data forecasting. 
-      ![Image text](Screenshots/Forecasting/analyseDataset.jpg)
+
       
 3. **Training Models using ML** 
     * Creating various Machine Learning models 
     * Applying various techniques to fit and forecast the data.
     * Comparing Various Designed Models. 
-      ![Image text](Screenshots/Forecasting/trainingModel.jpg)
+   
       
 4. **Forecasting Time-Series data**
     * Finally using the best model to forecast AQI. 
-      ![Image text](Screenshots/Forecasting/forecastAqi.jpg)
+  
 
 ## Technologies
 ***
